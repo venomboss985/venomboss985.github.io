@@ -4,7 +4,6 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#36593f"
-  # overlay_color: "#5e616c"
 excerpt: >
   My new personal website.
 ---
